@@ -1,0 +1,3 @@
+name,email,phone,unique_identity,boarding_point,destination_point,minimum_hour,maximum_hour
+Jonny,johndoe@gmail.com,1234567890,123,	London,Manchester,08:00:00\r\n,06:00:00\r\n
+Tarun Malhotra,admin@gmail.com,8168295841,kk,42,45,50,
